@@ -1,0 +1,9 @@
+pyTelegramBotAPI==4.15.2
+pydub==0.25.1
+requests==2.31.0
+yt-dlp==2023.10.13
+Pillow==10.0.1
+sqlalchemy==2.0.21
+python-dotenv==1.0.0
+gtts==2.3.2
+pytz==2023.3
